@@ -18,7 +18,7 @@ A beautiful, feature-packed task manager web app to organize your daily life. Bu
 
 ## 🌐 Live Demo
 
-👉 [Click here to view it live](https://Ananya-230911.github.io/KanbanBoard/)
+👉 [Click here to view it live](https://Ananya-230911.github.io/KanbanBoardProject/)
 
 ## 💻 How to Run
 
@@ -27,10 +27,11 @@ A beautiful, feature-packed task manager web app to organize your daily life. Bu
 3. Double-click index.html to launch it in your browser — that’s it!
 
 ```bash
-git clone https://github.com/Ananya-230911/Kanban-Board
-cd Kanban-Board
+git clone https://github.com/Ananya-230911/KanbanBoardProject
+cd KanbanBoardProject
 
 start index.html
+
 
 
 
